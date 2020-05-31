@@ -2,3 +2,4 @@ books.csv
 Information.py
 .idea
 venv
+__pycache__
